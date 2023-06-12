@@ -32,7 +32,7 @@
  */
 #pragma once
 
-#include <galois++/array2d.h>
+#include <../galois_coding_lib/include/galois++/array2d.h>
 #include <iostream>
 
 namespace Galois

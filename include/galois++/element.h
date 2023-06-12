@@ -5,7 +5,7 @@
  */
 #pragma once
 
-#include <galois++/field.h>
+#include <../galois_coding_lib/include/galois++/field.h>
 #include <assert.h>
 #include <iostream>
 #include <stdexcept>

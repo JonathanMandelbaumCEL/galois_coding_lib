@@ -30,9 +30,8 @@
    work.
    </blockquote>
  */
-
-#include <galois++/field.h>
-#include <galois++/primes.h>
+#include <../galois_coding_lib/include/galois++/field.h>
+#include <../galois_coding_lib/include/galois++/primes.h>
 #include <cmath>
 #include <iomanip>
 #include <iostream>

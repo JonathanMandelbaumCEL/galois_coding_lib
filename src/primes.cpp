@@ -31,7 +31,7 @@
     </blockquote>
  */
 
-#include <galois++/primes.h>
+#include <../galois_coding_lib/include/galois++/field.h>
 #include <cmath>
 #include <cstdint>
 #include <algorithm>
